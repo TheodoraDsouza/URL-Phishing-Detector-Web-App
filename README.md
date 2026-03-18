@@ -12,7 +12,6 @@ Users can enter a URL and instantly receive a safety assessment along with reaso
 * ⚡ Instant rule-based detection (no heavy ML libraries)
 * 🧠 Heuristic analysis using common phishing indicators
 * 📝 Clear explanation of why a URL is suspicious
-* 🎯 Beginner-friendly and fast to deploy
 
 ---
 
@@ -147,8 +146,5 @@ python app.py
 
 * Awareness tools for phishing prevention
 * Hackathon prototypes
-
----
-
 ---
 
